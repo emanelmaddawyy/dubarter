@@ -1,0 +1,76 @@
+@media (max-width: 1200px) {
+  /* line 11, D:/ui/categories/css/responsive.scss */
+  section#catlogPage {
+    margin: 3em 0; }
+  /* line 16, D:/ui/categories/css/responsive.scss */
+  .navbar .container {
+    padding: 10px 15px; }
+  /* line 21, D:/ui/categories/css/responsive.scss */
+  li.afterLine:after {
+    display: none; }
+  /* line 25, D:/ui/categories/css/responsive.scss */
+  .rtl .navbar-nav .nav-item + .nav-item {
+    margin-right: 0; }
+  /* line 29, D:/ui/categories/css/responsive.scss */
+  .nav-item a {
+    padding: 15px 10px !important; }
+  /* line 33, D:/ui/categories/css/responsive.scss */
+  li.nav-item.dropdown.afterLine {
+    margin: 10px 0 !important; }
+  /* line 37, D:/ui/categories/css/responsive.scss */
+  .select2-container--bootstrap, .search-btn {
+    width: 48% !important;
+    margin: 0 1% 5px;
+    float: right; }
+  /* line 44, D:/ui/categories/css/responsive.scss */
+  .searchBorder {
+    width: 100% !important;
+    display: flow-root;
+    background: #3facda; }
+  /* line 51, D:/ui/categories/css/responsive.scss */
+  .filter-type a.collapsed-btn {
+    font-size: 14px; } }
+
+@media (max-width: 1024px) {
+  /* line 61, D:/ui/categories/css/responsive.scss */
+  .filter-type a.collapsed-btn {
+    font-size: 12px; } }
+
+@media (max-width: 992px) {
+  /* line 67, D:/ui/categories/css/responsive.scss */
+  .ad img {
+    display: none; }
+  /* line 72, D:/ui/categories/css/responsive.scss */
+  footer .right-left-border {
+    border: none; }
+  /* line 76, D:/ui/categories/css/responsive.scss */
+  footer .contact h5 {
+    text-align: center; }
+  /* line 80, D:/ui/categories/css/responsive.scss */
+  .social ul {
+    justify-content: center; } }
+
+@media (max-width: 800px) {
+  /* line 90, D:/ui/categories/css/responsive.scss */
+  .quick-search div.col {
+    flex: 50%; } }
+
+@media (max-width: 768px) {
+  /* line 99, D:/ui/categories/css/responsive.scss */
+  .leftBox {
+    display: flex;
+    margin-top: 40px; }
+    /* line 104, D:/ui/categories/css/responsive.scss */
+    .leftBox .box, .leftBox .vedio {
+      margin-left: 10px; } }
+
+@media (max-width: 480px) {
+  /* line 113, D:/ui/categories/css/responsive.scss */
+  .leftBox {
+    display: block; } }
+
+/* line 125, D:/ui/categories/css/responsive.scss */
+.navside {
+  z-index: 999999; }
+
+/*# sourceMappingURL=responsive.css.map */
